@@ -76,7 +76,7 @@ function shrinkImage() {
 function handleImageClick() {
  
 	if(special){
-			image.src = 'nigga.jpg';
+			image.src = 'biden.jpg';
 			audioFile = 'nigga.mp3';
 			special = false;
 	}
