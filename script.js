@@ -5,15 +5,15 @@
 var executed = false;
 var special = false;
  // Your web app's Firebase configuration
-  const firebaseConfig = {
-    apiKey: "AIzaSyB9JDvvT1ZOuw1Dsrp2JUtXhktdLZux8jA",
-    authDomain: "nibbatrump-f8988.firebaseapp.com",
-    databaseURL: "https://nibbatrump-f8988-default-rtdb.firebaseio.com",
-    projectId: "nibbatrump-f8988",
-    storageBucket: "nibbatrump-f8988.appspot.com",
-    messagingSenderId: "655739447705",
-    appId: "1:655739447705:web:af588ca2f3fc081e29cb08"
-  };
+const firebaseConfig = {
+  apiKey: "AIzaSyD1UZZeej9Gsce539lyPlvYoBYIrs8CT4Y",
+  authDomain: "nibbabiden-2131b.firebaseapp.com",
+  databaseURL: "https://nibbabiden-2131b-default-rtdb.firebaseio.com",
+  projectId: "nibbabiden-2131b",
+  storageBucket: "nibbabiden-2131b.appspot.com",
+  messagingSenderId: "386627955944",
+  appId: "1:386627955944:web:4dae423ef2dc6be8c02d5d"
+};
 
   // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
