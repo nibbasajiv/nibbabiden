@@ -94,8 +94,8 @@ function handleImageClick() {
         clickCountElement.textContent = `Nigga Count: ${newCount}`;
 		
 		if (newCount % 100 == 0){				
-			image.src = 'nigga2.jpg';
-			audioFile = 'nigga2.mp3';
+			image.src = 'biden2.jpg';
+			audioFile = 'black.mp3';
 			special = true;
 		}
 		
